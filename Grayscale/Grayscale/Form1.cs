@@ -20,7 +20,7 @@ namespace Grayscale
         private void Button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog bukaFile = new OpenFileDialog();
-            bukaFile.Filter = "Image File (*.bmp, *.jpg, *.jpeg)|*.bmp;*.jpg;*.jpeg";
+            bukaFile.Filter = "Image File (*.bmp, *.jpg, *.jpeg, *.png)|*.bmp;*.jpg;*.jpeg;*.png";
             if (DialogResult.OK == bukaFile.ShowDialog())
             {
                 this.pictureBox1.Image = new Bitmap(bukaFile.FileName);
@@ -81,7 +81,7 @@ namespace Grayscale
                  
                 }
               
-                this.pictureBox1.Image = b;
+                this.pictureBox2.Image = b;
             }
         }
 

@@ -1,0 +1,10 @@
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\bin\Debug\Grayscale.exe.config
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\bin\Debug\Grayscale.exe
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\bin\Debug\Grayscale.pdb
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\obj\Debug\Grayscale.csprojAssemblyReference.cache
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\obj\Debug\Grayscale.Form1.resources
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\obj\Debug\Grayscale.Properties.Resources.resources
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\obj\Debug\Grayscale.csproj.GenerateResource.cache
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\obj\Debug\Grayscale.csproj.CoreCompileInputs.cache
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\obj\Debug\Grayscale.exe
+E:\gITHUBPROJECT\Computer_Vision-Grayscale\Grayscale\Grayscale\obj\Debug\Grayscale.pdb
