@@ -1,9 +1,6 @@
 # Computer_Vision-Grayscale
 Convert RGB to Grayscale (Average, Lightness, and Luminance)
 
-# Computer_Vision-Grayscale
-Convert RGB to Grayscale (Average, Lightness, and Luminance)
-
 
 
 
