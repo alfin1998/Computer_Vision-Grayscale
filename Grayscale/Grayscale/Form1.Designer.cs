@@ -98,6 +98,7 @@
             this.button3.TabIndex = 5;
             this.button3.Text = "Luminance";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.Button3_Click);
             // 
             // button4
             // 
@@ -107,6 +108,7 @@
             this.button4.TabIndex = 6;
             this.button4.Text = "Lightness";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.Button4_Click);
             // 
             // label2
             // 
